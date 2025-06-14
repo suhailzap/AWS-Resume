@@ -1,6 +1,4 @@
-Excellent! That's a professional, robust, and scalable architecture. Starting with the core components—S3 and CloudFront—is the perfect approach. This gets your website online securely and efficiently, providing a solid foundation before you add the more advanced features.
 
-Let's walk through implementing this first phase step-by-step.
 
 Phase 1: Static Website with S3 and CloudFront
 
@@ -160,4 +158,3 @@ Request an SSL Certificate with ACM: Get a free SSL certificate for your custom 
 
 Configure DNS to CloudFront: Point your custom domain to your CloudFront distribution using Route 53.
 
-Feel free to ask when you're ready to tackle these next steps
